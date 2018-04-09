@@ -17,3 +17,7 @@
 </channel>
 
 
+<next_page_url text="CH+ FAVORITOS"><![CDATA[nStreamFavorites.xml]]></next_page_url>
+<prev_page_url text="CH- ATRAS"><![CDATA[https://raw.githubusercontent.com/grobe1212/mirar/master/menutv.xml]]></prev_page_url>
+
+</items> 
