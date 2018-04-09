@@ -23,6 +23,21 @@
 <stream_url><![CDATA[http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/606/index.m3u8]]></stream_url>
 </channel>
  
+ <channel>
+<title><![CDATA[M. COMEDIA CENTRAL]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description></description>
+<stream_url><![CDATA[http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/572/index.m3u8]]></stream_url>
+</channel>
+ 
+ <channel>
+<title><![CDATA[COSMOPOLITAN HD]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description></description>
+<stream_url><![CDATA[http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/570/index.m3u8]]></stream_url>
+</channel>
+ 
+ 
   <channel>
 <title><![CDATA[M. DCINE FULLHD]]></title>
 <logo_30x30><![CDATA[]]></logo_30x30>
@@ -82,13 +97,7 @@
 <stream_url><![CDATA[http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/577/index.m3u8]]></stream_url>
 </channel>
  
-  <channel>
-<title><![CDATA[Heavy Metal TV HD]]></title>
-<logo_30x30><![CDATA[]]></logo_30x30>
-<description></description>
-<stream_url><![CDATA[http://70.166.99.93:1935/hmtv/myStream/playlist.m3u8]]></stream_url>
-</channel>
- 
+  
 
  
  <channel>
@@ -98,19 +107,7 @@
 <stream_url><![CDATA[http://playlist.onlybest.tv/ru/channel/6c53126176d7d597cbe6ffbb0c5fbf49/614/index.m3u8]]></stream_url>
 </channel>
  
- <channel>
-<title><![CDATA[HISTORIA ]]></title>
-<logo_30x30><![CDATA[]]></logo_30x30>
-<description></description>
-<stream_url><![CDATA[http://iptvtool.servebeer.com:25461/live/dortiz73/Aguilita73/52.m3u8]]></stream_url>
-</channel>
  
-  <channel>
-<title><![CDATA[VIAJAR ]]></title>
-<logo_30x30><![CDATA[]]></logo_30x30>
-<description></description>
-<stream_url><![CDATA[http://iptvtool.servebeer.com:25461/live/dortiz73/Aguilita73/632.m3u8]]></stream_url>
-</channel>
  
   <channel>
 <title><![CDATA[PARTIDAZO SOLO ON CUANDO EMITA EL PARTIDO Prueba]]></title>
@@ -149,7 +146,7 @@
 </channel>
  
   <channel>
-<title><![CDATA[F1 HD]]></title>
+<title><![CDATA[FORMULA 1 HD]]></title>
 <logo_30x30><![CDATA[]]></logo_30x30>
 <description><![CDATA[<img src="http://img4.futboltv.info/canales/laligatv.png" />]]>Deportes por internet</description>
 <stream_url><![CDATA[http://playlist.onlybest.tv/ru/channel/45d923b700bdbb53af22c8219ae034ac/612/index.m3u8]]></stream_url>
@@ -182,14 +179,7 @@
 <buffer_kb>20480</buffer_kb>
 </channel> 
  
- <channel>
-<title><![CDATA[GOL TV  ]]></title>
-<logo_30x30><![CDATA[]]></logo_30x30>
-<description><![CDATA[<img src="http://www.movistarplus.es/recorte/m-NEO/ficha/ESP.png" />]]>Deportes por internet</description>
-<stream_url><![CDATA[http://iptv.iptvtool.pw:25461/live/dortiz73/Aguilita73/76.m3u8]]></stream_url>
-<video_type>http</video_type>
-<buffer_kb>20480</buffer_kb>
-</channel>
+ 
  
 <channel>
 <title><![CDATA[MOVISTAR GOLF HD ]]></title>
