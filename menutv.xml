@@ -14,7 +14,7 @@
 <title><![CDATA[AUTONOMICAS]]></title>
 <logo_30x30></logo_30x30>
 <description><![CDATA[<img src="http://www.alfabetajuega.com/multimedia/imagenes/201607/156402.alfabetajuega-netflix-120716.jpg">Aqui encontraras todas las series que estan en emision actualmente.]]></description>
-<playlist_url><![CDATA[https://raw.githubusercontent.com/grobe1212/mirar/master/autonom%C3%ADcas.xml]]></playlist_url>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/grobe1212/mirar/master/auto.xml]]></playlist_url>
 <buffer_kb>30000</buffer_kb>
 </channel>
 
