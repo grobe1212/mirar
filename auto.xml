@@ -80,12 +80,67 @@
 </channel>
  
  <channel>
-<title><![CDATA[]]></title>
+<title><![CDATA[Ib3 baleares]]></title>
 <logo_30x30><![CDATA[]]></logo_30x30>
 <description></description>
-<stream_url><![CDATA[http://topiptv.net:5890/live/Alaoui-iptv/7tp9grY7q7/3022.ts]]></stream_url>
+<stream_url><![CDATA[http://ibsatiphone.ib3tv.com/iphoneliveIB3/IB3/IB3.m3u8]]></stream_url>
 </channel>
  
+ <channel>
+<title><![CDATA[Ib3 baleares]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description></description>
+<stream_url><![CDATA[http://ibsatiphone.ib3tv.com/iphoneliveIB3/IB3/IB3.m3u8]]></stream_url>
+</channel>
+ 
+ <channel>
+<title><![CDATA[Formentera tv]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description></description>
+<stream_url><![CDATA[http://server10.streaming-pro.com:1937/live/teftvlive/chunklist_w1938579533.m3u8]]></stream_url>
+</channel>
+ 
+ <channel>
+<title><![CDATA[Levante tv]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description></description>
+<stream_url><![CDATA[http://teledifusion.tv:1935/levantetvlive/levantetvlive/chunklist_w1353899296.m3u8]]></stream_url>
+</channel>
+ 
+ <channel>
+<title><![CDATA[Navarra tv]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description></description>
+<stream_url><![CDATA[http://live2.nice264.com:1935/niceLiveServer/_definst_/NTV_livenatvmb_MB_478/chunklist_w2047321122.m3u8]]></stream_url>
+</channel>
+ 
+ <channel>
+<title><![CDATA[Aragon tv]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description></description>
+<stream_url><![CDATA[http://aragontv.stream.flumotion.com/aragontv/hls-live/main.m3u8]]></stream_url>
+</channel>
+ 
+ <channel>
+<title><![CDATA[Extremadura tv]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description></description>
+<stream_url><![CDATA[http://hlstv.canalextremadura.es/livetv/smil:multistream.smil/chunklist_b264000_DVR.m3u8]]></stream_url>
+</channel>
+
+ <channel>
+<title><![CDATA[Asturias tv]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description></description>
+<stream_url><![CDATA[http://iphone.rtpa.stream.flumotion.com/rtpa/tv-iphone/main.m3u8]]></stream_url>
+</channel>
+ 
+ <channel>
+<title><![CDATA[Betis tv]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description></description>
+<stream_url><![CDATA[http://rbetis-hls.flumotion.com/rbetis/live/playlist.m3u8]]></stream_url>
+</channel>
  
  
  
