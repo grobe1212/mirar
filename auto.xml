@@ -144,13 +144,33 @@
 <stream_url><![CDATA[http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:tv3_web/playlist.m3u8]]></stream_url>
 </channel>
  
+<channel>
+<title><![CDATA[3/24]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description></description>
+<stream_url><![CDATA[http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:324_web/playlist.m3u8]]></stream_url>
+</channel>
  
+ <channel>
+<title><![CDATA[8 TV]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description></description>
+<stream_url><![CDATA[http://iphone.radiocat.net:1935/livereflector/8aldia.stream/playlist.m3u8]]></stream_url>
+</channel>
  
+ <channel>
+<title><![CDATA[CANARIAS TV]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description></description>
+<stream_url><![CDATA[http://streaming2.mad.idec.net/rtvcnet/rtvcnet.drb.smil/Playlist.m3u8]]></stream_url>
+</channel>
  
- 
- 
- 
- 
+ <channel>
+<title><![CDATA[CADIZ TV]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description></description>
+<stream_url><![CDATA[http://cls.todostreaming.eu/unatv/live/playlist.m3u8]]></stream_url>
+</channel>
  
  
  
