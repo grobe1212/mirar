@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<items>
+<playlist_name><![CDATA[musica]]></playlist_name>
+ 
+ <channel>
+<title><![CDATA[HIT TV]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description></description>
+<stream_url><![CDATA[http://kissfm-cires21-video.secure.footprint.net/hittv/master.m3u8]]></stream_url>
+</channel>
+
+<channel>
+<title><![CDATA[HEART TV]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description></description>
+<stream_url><![CDATA[http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/master.m3u8]]></stream_url>
+</channel>
+
+
+<next_page_url text="CH+ FAVORITOS"><![CDATA[nStreamFavorites.xml]]></next_page_url>
+<prev_page_url text="CH- ATRAS"><![CDATA[https://raw.githubusercontent.com/grobe1212/mirar/master/menutv.xml]]></prev_page_url>
+
+</items> 
