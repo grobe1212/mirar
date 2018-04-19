@@ -189,6 +189,50 @@
 </channel>
  
  
+  <channel>
+<title><![CDATA[Divinity]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description></description>
+<stream_url><![CDATA[https://mdslivehls-i.akamaihd.net/hls/live/571648/divinity/bitrate_1.m3u8]]></stream_url>
+</channel>
+ 
+ <channel>
+<title><![CDATA[FDF]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description></description>
+<stream_url><![CDATA[https://mdslivehls-i.akamaihd.net/hls/live/571650/fdf/bitrate_4.m3u8]]></stream_url>
+</channel>
+ 
+ 
+ <channel>
+<title><![CDATA[Lebrija TV]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description></description>
+<stream_url><![CDATA[http://212.104.160.156:1935/live/lebrijatv2/playlist3.m3u8]]></stream_url>
+</channel>
+ 
+ 
+ <channel>
+<title><![CDATA[España Murcia]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description></description>
+<stream_url><![CDATA[http://rtvmurcia_01-lh.akamaihd.net/i/rtvmurcia_1_0@507973/master.m3u8]]></stream_url>
+</channel>
+  
+ <channel>
+<title><![CDATA[TV Barbastro]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description></description>
+<stream_url><![CDATA[http://188.165.135.22/tvbarbastro/livestream/playlist.m3u8]]></stream_url>
+</channel>
+ 
+ <channel>
+<title><![CDATA[Melilla TV]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description></description>
+<stream_url><![CDATA[http://melillatv-hls.flumotion.com/melillatv/melillatv_all/melillatv/melillatv_source/chunks.m3u8]]></stream_url>
+</channel>
+ 
  
  
  
