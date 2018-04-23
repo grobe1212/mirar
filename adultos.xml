@@ -17,7 +17,20 @@
 <stream_url><![CDATA[http://usaserver.miamitvchannel.com/miamitv/smil:miamitv/playlist.m3u8]]></stream_url>
 </channel>
 
-
+<channel>
+<title><![CDATA[Redlight hd]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description></description>
+<stream_url><![CDATA[http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/501/index.m3u8]]></stream_url>
+</channel>
+ 
+<channel>
+<title><![CDATA[Hustler hd]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description></description>
+<stream_url><![CDATA[http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/502/index.m3u8]]></stream_url>
+</channel>
+ 
  
  
 <next_page_url text="CH+ FAVORITOS"><![CDATA[nStreamFavorites.xml]]></next_page_url>
